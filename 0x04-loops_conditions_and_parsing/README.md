@@ -1,1 +1,0 @@
-Readme for bash loops_conditions_and_parsing
