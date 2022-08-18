@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Bash scripts that displays "Best School" using while loop
 count=0
 
 while [ $count -lt 10 ]
